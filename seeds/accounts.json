@@ -1,0 +1,35 @@
+[
+   {
+      "name": "AMEX",
+      "balance": 1449118,
+      "type": "debt"
+   },
+   {
+      "name": "Discover",
+      "balance": 643891,
+      "type": "debt"
+   },
+   {
+      "name": "Savings",
+      "balance": 2221533
+   },
+   {
+      "name": "Checking",
+      "balance": 2336920
+   },
+   {
+      "name": "AFCU Visa",
+      "balance": 1508173,
+      "type": "debt"
+   },
+   {
+      "name": "Capital One MC",
+      "balance": 1542461,
+      "type": "debt"
+   },
+   {
+      "name": "Capital One Visa",
+      "balance": 506409,
+      "type": "debt"
+   }
+]

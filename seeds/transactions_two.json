@@ -1,0 +1,602 @@
+[
+   {
+      "description": "Autumn Afternoon, An (Sanma no aji)",
+      "amount": 124724,
+      "type": "payment",
+      "date": "2019-01-02T09:57:07Z"
+   },
+   {
+      "description": "Visioneers",
+      "amount": 5011,
+      "type": "payment",
+      "date": "2019-02-12T03:50:50Z"
+   },
+   {
+      "description": "Dragon Ball Z: Bio-Broly (Doragon bôru Z 11: Sûpâ senshi gekiha! Katsu no wa ore da)",
+      "amount": 31657,
+      "type": "payment",
+      "date": "2019-03-21T14:53:47Z"
+   },
+   {
+      "description": "Monster",
+      "amount": 19037,
+      "type": "expense",
+      "date": "2019-04-17T22:20:44Z"
+   },
+   {
+      "description": "One Missed Call",
+      "amount": 129311,
+      "type": "expense",
+      "date": "2019-04-21T12:46:02Z"
+   },
+   {
+      "description": "Green Zone",
+      "amount": 158671,
+      "type": "expense",
+      "date": "2019-02-06T09:27:28Z"
+   },
+   {
+      "description": "Meet the Parents",
+      "amount": 114925,
+      "type": "expense",
+      "date": "2019-02-24T01:19:40Z"
+   },
+   {
+      "description": "Christmas Toy, The",
+      "amount": 182873,
+      "type": "payment",
+      "date": "2019-01-21T14:26:01Z"
+   },
+   {
+      "description": "Violet Tendencies",
+      "amount": 16324,
+      "type": "payment",
+      "date": "2019-03-17T17:27:15Z"
+   },
+   {
+      "description": "Death Racers",
+      "amount": 36605,
+      "type": "payment",
+      "date": "2019-04-25T17:40:43Z"
+   },
+   {
+      "description": "Dead Fury",
+      "amount": 172785,
+      "type": "payment",
+      "date": "2019-02-18T05:45:01Z"
+   },
+   {
+      "description": "Californie, La",
+      "amount": 173541,
+      "type": "expense",
+      "date": "2019-03-04T02:17:05Z"
+   },
+   {
+      "description": "Ideal Husband, An",
+      "amount": 12184,
+      "type": "expense",
+      "date": "2019-05-25T20:02:45Z"
+   },
+   {
+      "description": "In God's Hands",
+      "amount": 101715,
+      "type": "payment",
+      "date": "2019-05-04T14:30:02Z"
+   },
+   {
+      "description": "Seems Like Old Times",
+      "amount": 164183,
+      "type": "payment",
+      "date": "2019-03-26T19:22:03Z"
+   },
+   {
+      "description": "Michael the Brave (Mihai Viteazul)",
+      "amount": 61273,
+      "type": "expense",
+      "date": "2019-05-23T20:44:21Z"
+   },
+   {
+      "description": "Trouble with Dee Dee, The",
+      "amount": 33659,
+      "type": "expense",
+      "date": "2019-05-28T03:37:41Z"
+   },
+   {
+      "description": "Last Ferry, The (Ostatni prom)",
+      "amount": 124779,
+      "type": "payment",
+      "date": "2019-02-24T06:49:41Z"
+   },
+   {
+      "description": "Stoked: The Rise and Fall of Gator",
+      "amount": 29843,
+      "type": "expense",
+      "date": "2019-02-09T09:38:59Z"
+   },
+   {
+      "description": "Romasanta: The Werewolf Hunt",
+      "amount": 183244,
+      "type": "expense",
+      "date": "2019-05-24T19:14:54Z"
+   },
+   {
+      "description": "African Cats",
+      "amount": 34487,
+      "type": "payment",
+      "date": "2019-04-11T21:14:08Z"
+   },
+   {
+      "description": "Road, Movie",
+      "amount": 54944,
+      "type": "payment",
+      "date": "2019-02-18T00:12:47Z"
+   },
+   {
+      "description": "Remonstrance",
+      "amount": 122615,
+      "type": "payment",
+      "date": "2019-06-01T09:38:59Z"
+   },
+   {
+      "description": "Last Night",
+      "amount": 162833,
+      "type": "payment",
+      "date": "2019-05-25T04:47:40Z"
+   },
+   {
+      "description": "V. I. Warshawski",
+      "amount": 186207,
+      "type": "expense",
+      "date": "2019-03-09T12:39:26Z"
+   },
+   {
+      "description": "Only the Young",
+      "amount": 190165,
+      "type": "expense",
+      "date": "2019-01-22T11:11:59Z"
+   },
+   {
+      "description": "Cutter, The",
+      "amount": 70568,
+      "type": "payment",
+      "date": "2019-06-10T15:40:50Z"
+   },
+   {
+      "description": "At Long Last Love",
+      "amount": 170423,
+      "type": "expense",
+      "date": "2019-01-28T15:43:13Z"
+   },
+   {
+      "description": "Q",
+      "amount": 142386,
+      "type": "expense",
+      "date": "2019-02-14T09:09:56Z"
+   },
+   {
+      "description": "Princess Diaries 2: Royal Engagement, The",
+      "amount": 121858,
+      "type": "payment",
+      "date": "2019-06-08T16:34:58Z"
+   },
+   {
+      "description": "Doctor, The",
+      "amount": 45602,
+      "type": "expense",
+      "date": "2019-04-13T20:36:38Z"
+   },
+   {
+      "description": "Jungle2Jungle (a.k.a. Jungle 2 Jungle)",
+      "amount": 13043,
+      "type": "expense",
+      "date": "2019-05-25T05:26:36Z"
+   },
+   {
+      "description": "Big Wedding, The",
+      "amount": 141020,
+      "type": "payment",
+      "date": "2019-02-13T04:18:46Z"
+   },
+   {
+      "description": "Stardom",
+      "amount": 182543,
+      "type": "payment",
+      "date": "2019-04-30T15:52:01Z"
+   },
+   {
+      "description": "Another Woman",
+      "amount": 193396,
+      "type": "payment",
+      "date": "2019-02-07T17:47:15Z"
+   },
+   {
+      "description": "Quatermass Xperiment, The",
+      "amount": 22146,
+      "type": "payment",
+      "date": "2019-06-01T00:53:14Z"
+   },
+   {
+      "description": "Summer Place, A",
+      "amount": 104525,
+      "type": "payment",
+      "date": "2019-03-13T07:32:01Z"
+   },
+   {
+      "description": "Love is Eternal While It Lasts",
+      "amount": 91985,
+      "type": "expense",
+      "date": "2019-02-12T15:14:56Z"
+   },
+   {
+      "description": "Flowers of Shanghai (Hai shang hua)",
+      "amount": 140196,
+      "type": "payment",
+      "date": "2019-04-10T17:00:40Z"
+   },
+   {
+      "description": "Big Tease, The",
+      "amount": 62741,
+      "type": "payment",
+      "date": "2019-03-05T03:17:14Z"
+   },
+   {
+      "description": "Secret Adventures of Gustave Klopp, The (Narco)",
+      "amount": 140057,
+      "type": "payment",
+      "date": "2019-02-08T10:25:37Z"
+   },
+   {
+      "description": "Suburbia",
+      "amount": 84069,
+      "type": "expense",
+      "date": "2019-01-02T12:33:52Z"
+   },
+   {
+      "description": "Holiday",
+      "amount": 135157,
+      "type": "payment",
+      "date": "2019-05-05T04:29:16Z"
+   },
+   {
+      "description": "New Police Story (Xin jing cha gu shi)",
+      "amount": 181273,
+      "type": "payment",
+      "date": "2019-03-29T17:33:22Z"
+   },
+   {
+      "description": "Seven Years in Tibet",
+      "amount": 181936,
+      "type": "expense",
+      "date": "2019-03-08T07:18:58Z"
+   },
+   {
+      "description": "Heaven Can Wait",
+      "amount": 87140,
+      "type": "expense",
+      "date": "2019-04-21T21:51:46Z"
+   },
+   {
+      "description": "Terror of Mechagodzilla (Mekagojira no gyakushu)",
+      "amount": 137888,
+      "type": "expense",
+      "date": "2019-01-15T16:43:44Z"
+   },
+   {
+      "description": "Living Wake, The",
+      "amount": 36176,
+      "type": "expense",
+      "date": "2019-04-28T17:55:15Z"
+   },
+   {
+      "description": "Not on Your Life (Verdugo, El) (Executioner, The)",
+      "amount": 191524,
+      "type": "payment",
+      "date": "2019-03-29T05:51:05Z"
+   },
+   {
+      "description": "Radioactive Dreams",
+      "amount": 7594,
+      "type": "expense",
+      "date": "2019-04-19T01:39:10Z"
+   },
+   {
+      "description": "Absent (Ausente)",
+      "amount": 27009,
+      "type": "payment",
+      "date": "2019-04-08T11:15:05Z"
+   },
+   {
+      "description": "Bernie",
+      "amount": 41965,
+      "type": "expense",
+      "date": "2019-06-12T03:48:02Z"
+   },
+   {
+      "description": "Woman in the Window, The",
+      "amount": 145821,
+      "type": "expense",
+      "date": "2019-05-03T06:41:04Z"
+   },
+   {
+      "description": "Dracula",
+      "amount": 22963,
+      "type": "payment",
+      "date": "2019-02-24T11:04:17Z"
+   },
+   {
+      "description": "Ghost Breakers, The",
+      "amount": 142767,
+      "type": "expense",
+      "date": "2019-03-18T18:10:23Z"
+   },
+   {
+      "description": "Je, tu, il, elle (I, You, He, She)",
+      "amount": 122479,
+      "type": "payment",
+      "date": "2019-01-18T01:15:45Z"
+   },
+   {
+      "description": "Gates of Heaven",
+      "amount": 39156,
+      "type": "payment",
+      "date": "2019-03-07T06:08:23Z"
+   },
+   {
+      "description": "Beautiful Creatures",
+      "amount": 80824,
+      "type": "payment",
+      "date": "2019-03-18T05:07:43Z"
+   },
+   {
+      "description": "Black Room, The",
+      "amount": 120809,
+      "type": "payment",
+      "date": "2019-05-15T15:01:18Z"
+   },
+   {
+      "description": "Bad Company",
+      "amount": 127979,
+      "type": "expense",
+      "date": "2019-02-09T02:45:23Z"
+   },
+   {
+      "description": "Star 80",
+      "amount": 177250,
+      "type": "expense",
+      "date": "2019-01-12T01:13:21Z"
+   },
+   {
+      "description": "Future, The",
+      "amount": 186352,
+      "type": "payment",
+      "date": "2019-05-10T08:15:28Z"
+   },
+   {
+      "description": "Project X",
+      "amount": 22414,
+      "type": "payment",
+      "date": "2019-02-25T17:44:22Z"
+   },
+   {
+      "description": "What Will You Do When You Catch Me? (Co mi zrobisz jak mnie zlapiesz?)",
+      "amount": 190543,
+      "type": "expense",
+      "date": "2019-04-28T02:28:25Z"
+   },
+   {
+      "description": "Frequencies",
+      "amount": 27885,
+      "type": "expense",
+      "date": "2019-01-10T10:08:11Z"
+   },
+   {
+      "description": "Rare Breed, The",
+      "amount": 14489,
+      "type": "payment",
+      "date": "2019-01-04T12:39:27Z"
+   },
+   {
+      "description": "Mickey, Donald, Goofy: The Three Musketeers",
+      "amount": 119664,
+      "type": "expense",
+      "date": "2019-03-23T16:12:47Z"
+   },
+   {
+      "description": "Operation Homecoming: Writing the Wartime Experience",
+      "amount": 198105,
+      "type": "expense",
+      "date": "2019-05-25T20:29:11Z"
+   },
+   {
+      "description": "Hot Coffee",
+      "amount": 145170,
+      "type": "expense",
+      "date": "2019-05-16T16:50:55Z"
+   },
+   {
+      "description": "Superman",
+      "amount": 199254,
+      "type": "payment",
+      "date": "2019-01-10T09:15:26Z"
+   },
+   {
+      "description": "Away from Her",
+      "amount": 71395,
+      "type": "payment",
+      "date": "2019-02-13T09:24:55Z"
+   },
+   {
+      "description": "Lewis Black: Stark Raving Black",
+      "amount": 30736,
+      "type": "expense",
+      "date": "2019-06-12T05:53:47Z"
+   },
+   {
+      "description": "My Dinner with André",
+      "amount": 189393,
+      "type": "payment",
+      "date": "2019-03-07T21:29:28Z"
+   },
+   {
+      "description": "Big Brown Eyes",
+      "amount": 114989,
+      "type": "expense",
+      "date": "2019-01-29T21:11:15Z"
+   },
+   {
+      "description": "Bottle Rocket",
+      "amount": 166018,
+      "type": "payment",
+      "date": "2019-05-27T12:38:29Z"
+   },
+   {
+      "description": "Runaway Jury",
+      "amount": 85658,
+      "type": "payment",
+      "date": "2019-03-26T18:25:02Z"
+   },
+   {
+      "description": "Rage of Angels: The Story Continues",
+      "amount": 35423,
+      "type": "payment",
+      "date": "2019-02-05T03:39:00Z"
+   },
+   {
+      "description": "Flight of Dragons, The",
+      "amount": 107393,
+      "type": "payment",
+      "date": "2019-03-29T18:58:04Z"
+   },
+   {
+      "description": "Cashback",
+      "amount": 196304,
+      "type": "payment",
+      "date": "2019-05-12T19:23:23Z"
+   },
+   {
+      "description": "Restless Natives",
+      "amount": 163638,
+      "type": "expense",
+      "date": "2019-01-19T22:03:03Z"
+   },
+   {
+      "description": "Thing Called Love, The",
+      "amount": 137015,
+      "type": "payment",
+      "date": "2019-03-24T03:51:56Z"
+   },
+   {
+      "description": "Supporting Characters",
+      "amount": 89803,
+      "type": "payment",
+      "date": "2019-02-24T23:37:31Z"
+   },
+   {
+      "description": "Amongst Friends",
+      "amount": 160622,
+      "type": "expense",
+      "date": "2019-06-10T11:08:37Z"
+   },
+   {
+      "description": "Mars",
+      "amount": 92975,
+      "type": "payment",
+      "date": "2019-04-15T13:08:58Z"
+   },
+   {
+      "description": "The Legend of Awesomest Maximus",
+      "amount": 76097,
+      "type": "payment",
+      "date": "2019-04-14T05:30:55Z"
+   },
+   {
+      "description": "12 O'Clock Boys",
+      "amount": 77244,
+      "type": "payment",
+      "date": "2019-05-14T20:08:59Z"
+   },
+   {
+      "description": "Azur & Asmar (Azur et Asmar)",
+      "amount": 32744,
+      "type": "expense",
+      "date": "2019-05-02T02:47:42Z"
+   },
+   {
+      "description": "Blood and Black Lace (Sei donne per l'assassino)",
+      "amount": 19451,
+      "type": "expense",
+      "date": "2019-05-16T14:13:26Z"
+   },
+   {
+      "description": "John Q",
+      "amount": 17886,
+      "type": "expense",
+      "date": "2019-06-12T04:04:59Z"
+   },
+   {
+      "description": "Formula, The",
+      "amount": 20150,
+      "type": "expense",
+      "date": "2019-06-05T11:04:42Z"
+   },
+   {
+      "description": "Age of Dinosaurs",
+      "amount": 81429,
+      "type": "expense",
+      "date": "2019-03-31T05:42:09Z"
+   },
+   {
+      "description": "Shaft, The (a.k.a. Down)",
+      "amount": 61337,
+      "type": "payment",
+      "date": "2019-05-24T01:26:48Z"
+   },
+   {
+      "description": "Age of Tomorrow",
+      "amount": 93487,
+      "type": "expense",
+      "date": "2019-01-06T19:26:32Z"
+   },
+   {
+      "description": "Hansel & Gretel",
+      "amount": 126205,
+      "type": "payment",
+      "date": "2019-03-18T00:28:31Z"
+   },
+   {
+      "description": "Hell's Highway",
+      "amount": 155517,
+      "type": "expense",
+      "date": "2019-04-29T11:52:12Z"
+   },
+   {
+      "description": "Misunderstood",
+      "amount": 94278,
+      "type": "payment",
+      "date": "2019-04-27T04:52:01Z"
+   },
+   {
+      "description": "Contact",
+      "amount": 95654,
+      "type": "expense",
+      "date": "2019-02-04T20:40:23Z"
+   },
+   {
+      "description": "Mother Night",
+      "amount": 100352,
+      "type": "payment",
+      "date": "2019-03-25T21:52:48Z"
+   },
+   {
+      "description": "Magus, The",
+      "amount": 94489,
+      "type": "payment",
+      "date": "2019-03-29T23:53:16Z"
+   },
+   {
+      "description": "Stalingrad",
+      "amount": 160057,
+      "type": "payment",
+      "date": "2019-02-05T14:39:31Z"
+   }
+]

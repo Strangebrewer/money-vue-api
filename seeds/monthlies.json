@@ -1,0 +1,74 @@
+[
+   {
+      "name": "Rent",
+      "description": "Multi-channelled client-server frame",
+      "amount": 109000,
+      "due_date": 1
+   },
+   {
+      "name": "Comcast",
+      "description": "Realigned optimizing array",
+      "amount": 6695,
+      "due_date": 24
+   },
+   {
+      "name": "Electricity",
+      "description": "Bountiful Power",
+      "amount": 5500,
+      "due_date": 10
+   },
+   {
+      "name": "Gas",
+      "description": "Questar",
+      "amount": 5500,
+      "due_date": 13
+   },
+   {
+      "name": "Insurance",
+      "description": "USAA Car Insurance",
+      "amount": 12099,
+      "due_date": 20
+   },
+   {
+      "name": "Phone",
+      "description": "T-Mobile",
+      "amount": 11600,
+      "due_date": 14
+   },
+   {
+      "name": "Navient",
+      "description": "Student loans",
+      "amount": 18787,
+      "due_date": 14
+   },
+   {
+      "name": "Capital One MC",
+      "description": "Right-sized asynchronous installation",
+      "amount": 0,
+      "due_date": 16
+   },
+   {
+      "name": "Capital One Visa",
+      "description": "Versatile scalable data-warehouse",
+      "amount": 0,
+      "due_date": 13
+   },
+   {
+      "name": "AMEX",
+      "description": "Persevering neutral artificial intelligence",
+      "amount": 0,
+      "due_date": 8
+   },
+   {
+      "name": "Discover",
+      "description": "Sharable stable superstructure",
+      "amount": 0,
+      "due_date": 28
+   },
+   {
+      "name": "AFCU Visa",
+      "description": "Face to face multi-state implementation",
+      "amount": 0,
+      "due_date": 28
+   }
+]

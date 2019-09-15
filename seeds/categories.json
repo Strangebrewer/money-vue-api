@@ -1,0 +1,31 @@
+[
+   {
+      "name": "Gas",
+      "description": "Optional zero administration product"
+   },
+   {
+      "name": "Food",
+      "description": "Robust incremental instruction set"
+   },
+   {
+      "name": "Entertainment",
+      "description": "Centralized zero administration neural-net"
+   },
+   {
+      "name": "Burp Talk",
+      "description": "Organic intermediate support"
+   },
+   {
+      "name": "Computers",
+      "description": "Synergistic multi-state infrastructure"
+   },
+   {
+      "name": "Car Repair",
+      "description": "Reactive incremental productivity"
+   },
+   {
+      "name": "Paychecks",
+      "description": "Reactive incremental productivity",
+      "type": "income"
+   }
+]
